@@ -1,0 +1,32 @@
+db.products.insert({
+  "nombre": "laptop",
+  "precio": 40.2,
+  "active": false,
+  "created_at": new Date("12/12/1999"),
+  "somedate": [1, "a", []],
+  "factucturer": {
+    "name": "dell",
+    "version": "xps",
+    "location": {
+      "city": "usa",
+      "address": "asdasd"
+    }
+  }
+})
+
+db.products.insert([
+  {
+    "name": "mouse",
+    "description": "razer mouse",
+    "tags": ["computers", "gaming"],
+    "quantity": 14,
+    "created_at": new Date()
+  },
+  {
+    "name": "monitor",
+    "description": "lg monitor",
+    "tags": ["computers", "gaming"],
+    "quantity": 3,
+    "created_at": new Date()
+  }
+])

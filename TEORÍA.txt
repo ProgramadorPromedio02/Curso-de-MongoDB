@@ -1,0 +1,9 @@
+What is MongoDB?
+----------------
+
+MongoDB (del inglés humongous, "enorme"[cita requerida]) es un sistema de base de datos NoSQL, orientado a documentos y de código abierto. En lugar de guardar los datos en tablas, tal y como se hace en las bases de datos relacionales, MongoDB guarda estructuras de datos BSON (una especificación similar a JSON) con un esquema dinámico, haciendo que la integración de los datos en ciertas aplicaciones sea más fácil y rápida.
+
+MongoDB es una base de datos adecuada para su uso en producción y con múltiples funcionalidades. Esta base de datos se utiliza mucho en la industria,1​ contando con implementaciones en empresas como MTV Network,2​ Craigslist,3​ Foursquare.4​
+
+
+
